@@ -1,4 +1,4 @@
-![Passionate about SQA field.](https://media.istockphoto.com/vectors/flat-design-with-people-sqa-software-quality-assurance-acronym-vector-id1292486645?k=20&m=1292486645&s=612x500&w=0&h=pkdH2I6nt_vfV04DVnDzbiyQUeIJw-oR9L1UoqU68Z8=)
+![Passionate about SQA field.](https://media.istockphoto.com/vectors/flat-design-with-people-sqa-software-quality-assurance-acronym-vector-id1292486645?k=20&m=1292486645&s=612x610&w=0&h=pkdH2I6nt_vfV04DVnDzbiyQUeIJw-oR9L1UoqU68Z8=)
 
 ### Hi there 👋, my name is Israt Jahan
 #### Passionate about SQA field.
