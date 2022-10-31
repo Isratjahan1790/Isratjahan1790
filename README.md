@@ -1,4 +1,4 @@
-![Passionate about SQA field.](https://media.istockphoto.com/vectors/flat-design-with-people-sqa-software-quality-assurance-acronym-vector-id1292486645?k=20&m=1292486645&s=612x612&w=0&h=pkdH2I6nt_vfV04DVnDzbiyQUeIJw-oR9L1UoqU68Z8=)
+![Passionate about SQA field.](https://i.imgur.com/tN5CW8d.gif)
 
 <h1 align="center">Hi 👋, I'm Israt</h1>
 <h3 align="center">A passionate Software Quality Assurance Engineer from Dhaka, Bangladesh</h3>
