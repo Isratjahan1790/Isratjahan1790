@@ -1,7 +1,7 @@
-![Passionate about SQA field.](https://i.imgur.com/tN5CW8d.gif)
+![](https://i.imgur.com/tN5CW8d.gif)
 
-<h1 align="center">Hi 👋, I'm Israt</h1>
-<h3 align="center">A passionate Software Quality Assurance Engineer from Dhaka, Bangladesh</h3>
+<h1 align="center">Hi 👋, I'm Israt. Passionate about SQA field</h1>
+<h3 align="center">Software Quality Assurance Engineer from Dhaka, Bangladesh</h3>
 
 Skills: Manual Testing / Automation testing / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / C / JAVA / Python / QA & QC / SDLC & STLC
 
