@@ -26,7 +26,6 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
 ![](https://github-profile-trophy.vercel.app/?username=Isratjahan1790&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 
-
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Isratjahan1790)  
 
 
