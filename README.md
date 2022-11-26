@@ -32,8 +32,6 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
 
 
 
-
-
 ![Profile views](https://gpvc.arturio.dev/Isratjahan1790)  
 
 
