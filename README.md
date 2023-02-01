@@ -9,8 +9,6 @@
 Test planning / Test case documentation / Test metrics / Bug reporting / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / C / JAVA / Python / QA & QC / SDLC & STLC
 
 
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ishratjahan.1790) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/israt-jahan1790) 
 
