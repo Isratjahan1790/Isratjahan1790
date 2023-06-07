@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.imgur.com/tN5CW8d.gif">
 
 ## 👋 Hi there, I'm Israt. Passionate about SQA field
-🔭 I’m currently working on Web automation using Selenium with Java<br>🌱 I’ve learned SQA & Cyber security from IT Training BD<br>👯  All of my projects are available at https://github.com/Isratjahan1790<br>📫 Reach me Email: isratjahan2997@gmail.com<br>📄 Know about my specialities please enter https://drive.google.com/file/d/17oV4eJO48-ekeoAavpH-NjxAV9_ZNYAI/view?usp=share_link<br>⚡ I think, QA is absolutely essential; without it, not only do organizations risk releasing products that are below market standards, but also lose money, wasted time and not fully exploit the potential of an idea.
+🔭 I’m currently working on Web automation using Selenium with Java<br>🌱 I’ve learned SQA & Cyber security from IT Training BD<br>👯  All of my projects are available at https://github.com/Isratjahan1790<br>📫 Reach me Email: isratjahan2997@gmail.com<br>📄 Know about my specialities please enter https://drive.google.com/file/d/16a1Tku3NT14UmLt44ohkOtQuldOBHhIN/view?usp=drive_link<br>⚡ I think, QA is absolutely essential; without it, not only do organizations risk releasing products that are below market standards, but also lose money, wasted time and not fully exploit the potential of an idea.
 
 
 ## ⚡ Skills:
